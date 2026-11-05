@@ -2,7 +2,7 @@
 
 Comprehensive test cases for AI/LLM red teaming — **bias**, **misinformation**, **prompt injection**, **system prompt leakage**, **RAG security**, **data leaks**, **excessive agency**, **improper output handling**, **resource abuse**, **toxicity**, and more.
 
-**Version:** 1.2.0 · **Updated:** 2026-09-23 · **Total tests:** 186
+**Version:** 1.2.0 . **Total tests:** 186
 
 > **Pentester note:** Evaluate **model behavior** and **application behavior** separately. Many serious LLM vulnerabilities come from RAG, tool permissions, authentication, output rendering, or data-access architecture — not the model alone.
 
